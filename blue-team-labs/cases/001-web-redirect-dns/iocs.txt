@@ -1,0 +1,9 @@
+# IOCs — Case #001
+
+Domains:
+- yummyrecipesforme.com
+- greatrecipesforme.com
+
+IPs:
+- 203.0.113.22
+- 192.0.2.172
